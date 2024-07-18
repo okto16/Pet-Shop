@@ -1,4 +1,4 @@
-et Shop Management System
+Pet Shop Management System
 Overview
 The Pet Shop Management System is a comprehensive solution designed to streamline the operations of pet shops. This application leverages modern technologies to provide an efficient and user-friendly interface for managing various aspects of a pet shop, including inventory, customer orders, and more.
 
@@ -63,3 +63,8 @@ Start the Vue.js development server:
 sh
 Salin kode
 npm run serve
+Contributing
+Contributions are welcome! Please submit a pull request or open an issue to discuss any changes or suggestions.
+
+License
+This project is licensed under the MIT License.
