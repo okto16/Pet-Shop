@@ -6,8 +6,8 @@ The Pet Shop Management System is a comprehensive solution designed to streamlin
 
 ## Tech Stack
 
-- **Frontend**: Vue.js - A progressive JavaScript framework used for building user interfaces.
-- **Backend**: Laravel - A PHP framework that provides a robust backend infrastructure.
+- **Frontend**: Vue.js 3 - A progressive JavaScript framework used for building user interfaces.
+- **Backend**: Laravel 11 - A PHP framework that provides a robust backend infrastructure.
 - **Styling**: Tailwind CSS - A utility-first CSS framework for rapid UI development.
 - **UI Components**: Headless UI - Unstyled, fully accessible UI components for creating custom designs.
 
