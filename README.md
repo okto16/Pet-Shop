@@ -1,7 +1,3 @@
-Tentu, berikut adalah deskripsi yang bisa Anda gunakan untuk repo GitHub Anda:
-
----
-
 # Pet Shop Management System
 
 ## Overview
